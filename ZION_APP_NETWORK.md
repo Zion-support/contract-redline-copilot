@@ -1,19 +1,12 @@
-# Zion App Network — Interlinks
+# 🌐 Zion AI App Network
 
-**Contract Redline Copilot** is part of the Zion Tech Group App Network — Batch 53: Contract Lifecycle & Legal Ops.
+This app is part of the **Zion AI App Network** — interlinked, open-source AI apps by Zion Tech Group. Inspect the README for documented status; publication is not proof of AI functionality.
 
-## Batch 53 — Contract Lifecycle & Legal Ops
-- [AI Tender Scout](https://ziontechgroup.com/ai-tender-scout/)
-- [AI Contract Reviewer](https://ziontechgroup.com/ai-contract-reviewer/)
-- [Contract Clause Reviewer](https://ziontechgroup.com/contract-clause-reviewer/)
-- [AI Contract Clause Screener](https://ziontechgroup.com/ai-contract-clause-screener/)
-- **Contract Redline Copilot** (this app) — https://ziontechgroup.com/contract-redline-copilot/
-- [Contract Clause Sentry](https://ziontechgroup.com/contract-clause-sentry/)
-- [Contract Obligation Tracker](https://ziontechgroup.com/contract-obligation-tracker/)
-- [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/)
+- 🌐 Live page: https://ziontechgroup.com/contract-redline-copilot/
+- 🗂️ Network hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E 2026: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Zion Tech Group: https://ziontechgroup.com
 
-## Network
-- Master directory: https://github.com/Zion-support/zion-app-network
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
-- Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md
-- Homepage: https://ziontechgroup.com
+© 2026 Zion Tech Group
